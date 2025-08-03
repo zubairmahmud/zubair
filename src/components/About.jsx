@@ -1,4 +1,4 @@
-// Aboutimport React from 'react';
+import React from 'react';
 
 const About = () => {
   return (
@@ -19,4 +19,4 @@ const About = () => {
   );
 };
 
-export default About; section component code will go here
+export default About;
